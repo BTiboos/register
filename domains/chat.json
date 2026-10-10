@@ -4,6 +4,7 @@
     "email": "1121488602@qq.com"
   },
   "record": {
-    "CF": "bold-star-bab2.1121488602.workers.dev"
+    "CNAME": "bold-star-bab2.1121488602.workers.dev",
+    "proxied": true
   }
 }
